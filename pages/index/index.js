@@ -88,7 +88,12 @@ Page({
     this.setData({
       swiperCurrent: e.detail.current
     })
-  },
+	},
+	toDetailsTap (e) {
+		wx.navigateTo({
+			url: '/pages/goods-detail/index?id=' + e.currentTarget.dataset.id
+		})
+	},
   tapBanner: function (e) {
     if (e.currentTarget.dataset.id !== 0) {
       wx.navigateTo({
