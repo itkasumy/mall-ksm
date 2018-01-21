@@ -36,7 +36,7 @@ App({
   globalData: {
     userInfo: null,
 		subDomain: "tz",
-		version: '1.8.1',
+		version: '0.0.1',
 		shareProfile: '百款精品商品,总有一款适合您'
 	},
 	getUserInfo (cb) {
