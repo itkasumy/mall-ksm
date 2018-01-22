@@ -5,7 +5,8 @@
 		"pages/goods-detail/index",
     "pages/shop-cart/index",
 		"pages/my/index",
-		"pages/to-pay-order/index"
+		"pages/to-pay-order/index",
+		"pages/select-address/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
