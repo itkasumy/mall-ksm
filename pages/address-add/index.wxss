@@ -67,7 +67,7 @@ button[type="default"] {
 	font-size: 28rpx;
 }
 .addr-details .label {
-	margin: auto 0;
+	margin: auto 0 auto 0;
 	width: 160rpx;
 	color: #000;
 }
