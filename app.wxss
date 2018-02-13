@@ -8,3 +8,7 @@
   box-sizing: border-box;
 }
 
+.wxParse-img {
+	display: block !important;
+}
+

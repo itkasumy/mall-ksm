@@ -8,7 +8,13 @@
 		"pages/to-pay-order/index",
 		"pages/select-address/index",
 		"pages/address-add/index",
-		"pages/order-list/index"
+		"pages/order-list/index",
+		"pages/order-details/index",
+		"pages/wuliu/index",
+		"pages/notice/show",
+		"pages/mycoupons/index",
+		"pages/recharge/index",
+		"pages/withdraw/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
